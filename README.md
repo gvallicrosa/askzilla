@@ -15,5 +15,5 @@ Very competitive when played between different teams.
 Edit the `config.py` file to include your custom questions and other options.
 
 ## Usage
-Start with `./start.sh´.
+Start with `./start.sh`.
 
